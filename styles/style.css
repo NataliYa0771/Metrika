@@ -67,7 +67,7 @@ body {
 	margin-bottom: 150px;
 }
 .main-main {
-	height: 500px;
+	height: 100%;
 	background-image: url("../images/Rectangle 1.jpg");
 	background-size: cover;
 	background-position: 50%;
@@ -129,7 +129,6 @@ body {
 }
 .main-image {
 	position: relative;
-	margin-right: 440px;
 	padding-left: 40px;
 	padding-top: 390px;
 	box-sizing: border-box;
